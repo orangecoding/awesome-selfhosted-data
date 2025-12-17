@@ -1,0 +1,17 @@
+name: "Fredy"
+website_url: "https://fredy.orange-coding.net/"
+source_code_url: "https://github.com/orangecoding/fredy"
+# description of what the software does, shorter than 250 characters, sentence case
+description: "Fredy - [F]ind [R]eal [E]state [D]amn Eas[y] - Fredy keeps searching for new apartments, houses, and flats in Germany on platforms like ImmoScout24, Immowelt etc and instantly delivers the results to you via Slack, Telegram etc..."
+licenses:
+  - Apache-2.0
+platforms:
+  - Javascript
+  - Nodejs
+  - Docker
+# list of tags (categories), see https://github.com/awesome-selfhosted/awesome-selfhosted-data/tree/master/tags for the full list of tags
+tags:
+  - Automation
+  - Self-hosting Solutions
+  - Search Engines
+demo_url: "https://fredy-demo.orange-coding.net"
